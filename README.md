@@ -14,7 +14,9 @@ Everyone has preferences, and everyone has their own view of what makes a projec
 
 1. Last, because everyone has preferences and their own view of what makes a project "idiomatic". While creativity and differences are what makes the world an interesting place, when applied to the organization structure of similar projects - those things also make it difficult for communities to grow, teams to collaborate, and standards to be adopted.
 
-## First things first: documentation
+## First things first
+
+### Documentation
 
 As a general rule, do not publish a project until most of it has been documented. I didn't always follow this rule, and their are a few exceptions, but here is what I've learned:
 
@@ -26,7 +28,15 @@ As a general rule, do not publish a project until most of it has been documented
 
 * Oftentimes users of large projects will become so familiar with the code, or get to a point where they have "outgrown" what's currently written in the documentation, that I usually see these users divide into roughly the following categories: 1) some will create issues about it, or complain, 2) others will offer to help improve the documentation or contribute in some other way. Remember that most open source projects on GitHub are maintained by someone like you. Try to be in the second category and offer to help whenever possible. It's also helpful to create issues to improve the documentation, but only when you properly describe the problem, link to any erroneous information or typos, or offer a better solution. But it's even better if you do a pull request to fix it.
 
-TBC
+
+**TODO**:
+
+Sections I plan to implement:
+
+* idiomatic contributing
+* proper documentation: API, usage, features
+* proper attribution, giving credit to others
+* project metadata: make it easier for others to find your project
 
 
 ## Author
