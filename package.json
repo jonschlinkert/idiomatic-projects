@@ -1,0 +1,43 @@
+{
+  "name": "idiomatic-projects",
+  "description": "Principles for creating consistent, idiomatic GitHub projects.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/idiomatic-projects",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/idiomatic-projects.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/idiomatic-projects/issues"
+  },
+  "licenses": [
+    {
+      "type": "Creative Commons Attribution 3.0 Unported License",
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    }
+  ],
+  "keywords": [
+    "idiomatic",
+    "projects",
+    "docs",
+    "github",
+    "git",
+    "readme",
+    "documentation"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "devDependencies": {
+    "verb": ">= 0.2.6",
+    "mocha": "*"
+  }
+}
